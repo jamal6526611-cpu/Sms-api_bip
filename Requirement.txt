@@ -1,0 +1,15 @@
+# 1. Update and upgrade
+pkg update && pkg upgrade -y
+
+# 2. Install Python and git
+pkg install python git -y
+
+# 3. Clone the repository
+git clone https://github.com/yourusername/cxofb-sms-bomber.git
+cd cxofb-sms-bomber
+
+# 4. Install dependencies from requirements.txt
+pip install -r requirements.txt
+
+# 5. Run the tool
+python cxofb_bomber.py

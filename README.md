@@ -1,2 +1,23 @@
-# Sms-api_bip
-⚠️ DISCLAIMER  This project is intended for educational and research purposes only.  🔞 18+ Users Only  The authors and TEAM 𝐋𝐍 are not responsible for any misuse, damage, legal issues, or consequences resulting from the use of this project.  By using this repository, you agree that you are solely responsible for your actions.  — TEAM 𝐋𝐍
+# 🚀 CXOFB SMS BO-MBER ULTRA VERSION v1.0
+
+## ⚡ Powerful SMS Bomber for Educational Testing
+
+### 🔥 Features
+- Ultra-fast multi-threaded bombing
+- Beautiful terminal interface
+- Proxy support
+- Real-time statistics
+- Error handling & retry mechanism
+
+### 📦 Installation
+
+```bash
+# Clone repository
+git clone https://github.com/yourusername/cxofb-sms-bomber.git
+cd cxofb-sms-bomber
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run
+python cxofb_bomber.py
