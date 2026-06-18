@@ -5,7 +5,7 @@ pkg update && pkg upgrade -y
 pkg install python git -y
 
 # 3. Clone the repository
-git clone git@github.com:jamal6526611-cpu/Sms-api_bip.git
+git clone https://github.com/jamal6526611-cpu/Sms-api_bip.git
 cd cxofb-sms-bomber
 
 # 4. Install dependencies from requirements.txt
